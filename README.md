@@ -74,5 +74,5 @@ This project successfully demonstrates the implementation of an Expense Tracker 
 
 Developed as part of the DecodeLabs Industrial Training Program.
 
-##Author:
+## Author:
 Miryala Ankitha
